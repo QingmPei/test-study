@@ -1,3 +1,6 @@
 rebase合并冲突测试
 
-dev新增test9.txt
+dev新增test9.txt main新增test9.txt
+
+rebase合并冲突解决
+
