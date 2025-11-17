@@ -1,1 +1,3 @@
-模拟其他人远程推送了此文件到github，拉取此文件到本地。
+print("hello wrld")
+
+print("1password托管gitssh密钥测试")
